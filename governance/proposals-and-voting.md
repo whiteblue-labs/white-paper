@@ -1,0 +1,32 @@
+# Proposals and Voting
+
+## Proposal Types:
+
+* Treasury Funding
+* Governance Updates
+* Committee implementation or replacement
+* Protocol upgrades
+
+## **Process**
+
+### **Step 1: Request for comment (Forum)**&#x20;
+
+Post a proposal draft in [Ideas and Feedback](https://forum.whiteblue.to/c/ideas-feedback/5) in Forum. Collect feedback from the community and update the proposal as needed. There is no hard timeline for this step, but proposals that don't take this step seriously are not likely to pass. Once your idea is ready to submit as a proposal, it will need to follow the template below, so you should consider drafting your idea in this format to start.&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-22 at 5.42.48 PM.png" alt=""><figcaption></figcaption></figure>
+
+### **Step 2: Request to proceed (Forum)**&#x20;
+
+After implementing any changes to the proposal based on feedback received in step 1, you should present a final draft in the [Proposal](https://forum.whiteblue.to/c/proposals/10) section of forum and request to proceed to Snapshot. You will want to make sure to include a link to your discussion draft in the final proposal. Any Forum admin can review the proposal for format compliance and provide an indication that the proposal can move to Snapshot. This is not an indication of support for the ideas in the proposal, but rather an indication that the proposal meets the requirements needed to move to a vote. Proposals that are not properly formatted should not move to a formal vote.
+
+### **Step 3: Formal vote (Snapshot)**
+
+Proposals that have been approved in step 2 are ready to be voted on and may be posted to snapshot with a 7-day voting period. A proposer must have a voting weight of at least 50,000 WBL in order to submit a proposal. If you do not meet the requirement for submitting a proposal, a qualified voter may post the proposal on your behalf if they wish to do so.&#x20;
+
+### **Step 4: Results**
+
+If a proposal passes Snapshot, it will be executed by the WhiteBlue DAO Safe.
+
+**Criteria for passing**\
+FOR + AGAINST + ABSTAIN >= QUORUM\
+AND FOR > AGAINST<br>
